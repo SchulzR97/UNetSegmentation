@@ -160,5 +160,7 @@ cython_debug/
 #.idea/
 
 runs
-data/MSCoco
+data/*
 *.sd
+data/.DS_Store
+.DS_Store
